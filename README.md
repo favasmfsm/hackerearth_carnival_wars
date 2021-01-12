@@ -1,5 +1,5 @@
 # hackerearth_carnival_wars
-Problem statement
+## Problem statement
 
 Halloween is a night of costumes, fun, and candy that takes place every year on October 31. On this day people dress up in various costumes that have a scary overtone and go trick-or-treating to gather candy.
 
